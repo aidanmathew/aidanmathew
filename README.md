@@ -4,7 +4,6 @@
 
 - 🔭 &nbsp;I have started my development journey by creating my personal website! 
 <br>
-<br>
 
 <center><code>Try clicking the waving hand to check it out :)</code></center>
 
