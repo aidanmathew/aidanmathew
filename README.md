@@ -5,7 +5,7 @@
 - 🔭 &nbsp;I have started my development journey by creating my personal website! 
 <br>
 
-<p align="center"><code>Try clicking the waving hand to check it out :)</code></p>
+<code>Try clicking the waving hand to check it out :)</code>
 
 <br>
 <br>
