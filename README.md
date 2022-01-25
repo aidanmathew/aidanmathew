@@ -11,8 +11,8 @@
 <br>
 
 - 🌱 &nbsp;I’m currently learning everything that I can 🤣
-- 💻 &nbsp;I’m looking to expand my knowledge in the areas of full-stack development and data science
-- 🥅 &nbsp;2021 Goals: To learn both software and hardware in Computer Engineering
+- 💻 &nbsp;I’m looking to expand my knowledge in the areas of full-stack development and infrastructure engineering
+- 🥅 &nbsp;2022 Goals: To gain industry experience in a software development position
 - ⚡ Fun fact: I love to play sports and musical instruments
 
 ## Connect with me!
