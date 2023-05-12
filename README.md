@@ -8,7 +8,7 @@
 
 - 🌱 &nbsp;I’m currently learning node.js and mongoDB to further my understanding in backend development
 - 💻 &nbsp;I’m looking to expand my knowledge in the areas of full-stack development and infrastructure engineering
-- 🥅 &nbsp;2022 Goals: To gain industry experience in a software development position
+- 🥅 &nbsp;2024 Goals: To gain industry experience in a software development position
 - ⚡ Fun fact: I love to play sports and musical instruments
 
 ## Connect with me!
